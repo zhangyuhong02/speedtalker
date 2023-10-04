@@ -1,0 +1,6 @@
+expname = Obama_head
+datadir = /home/zyh/speedtalker/mask_basedNeRF/dataset
+basedir = /home/zyh/speedtalker/mask_basedNeRF/dataset
+near = 0.5679027318954468
+far = 1.1679027318954467
+testskip = 104
